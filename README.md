@@ -18,5 +18,11 @@ Die Ausstattung ist ein Vorschlag. Bestätigt sind die echte Kugel, das Thema un
 
 - [Bauumfang, Kosten und Zeitplan](docs/bauplan.md)
 - [Grobe Stückliste als CSV](planung/stueckliste.csv)
+- [Einkaufsliste mit Testbrett und Ausbau](planung/einkaufsliste.md) · [Excel-Datei](planung/Einkaufsliste.xlsx)
+- [Drehbares 3D-Modell als HTML-Datei](modell/Mission-70-3D.html) – herunterladen und im Browser öffnen.
 
-Stand der Preisrecherche: 20. November 2026. Die Stückliste enthält Baugruppenbudgets und Preisbeispiele; konkrete, zueinander passende Artikel wählen wir nach dem ersten Layout.
+![Mission 70 – Gesamtansicht und Spielfeld](modell/Mission-70-Vorschau.png)
+
+Das Modell zeigt Gehäuse und Spielfeld mit schematischer Mechanik. Bohrungen, Anschlüsse und endgültige Maße ergeben sich aus der Passprobe mit den Originalteilen.
+
+Stand der Preisrecherche: 20. November 2026. Die grobe Stückliste enthält Budgetansätze. Die konkrete Einkaufsliste führt Händlerpreise in Euro und US-Dollar und markiert die noch offenen Entscheidungen bei Stromversorgung und Kugeltruhe.
